@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About ME 🤍
+
+- ☁️ I’m currently attending Yonsei University.
+- 📃 I’m currently learning Statistics, Data Analysis, Machine Learning, Deep Learning, ETC.
+- 📩 How to reach me: cheris8h@gmail.com
+
+For more information about me, click [here]().
+
+* * *
+
+## Webpages and Tools:
+
+- Tools : `Python` `R` `SQL` `Tableau`
+- GitHub : <https://github.com/cheris8>
+- Blog : <https://cheris8.github.io>
+  - [Data Analysis](https://cheris8.github.io/categories/#data-analysis)
+  - [Text Mining](https://cheris8.github.io/categories/#text-mining)
+  - [NLP](https://cheris8.github.io/categories/#natural-language-processing)
+  - ...
+
+* * *
