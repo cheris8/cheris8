@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 For more information about me, click [here]().
 
-## Webpages and Tools:
+## Tools and Webpages
 
 - Tools : `Python` `R` `SQL` `Tableau`
 - GitHub : <https://github.com/cheris8>
