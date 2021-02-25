@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 For more information about me, click [here]().
 
-* * *
-
 ## Webpages and Tools:
 
 - Tools : `Python` `R` `SQL` `Tableau`
