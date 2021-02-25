@@ -32,5 +32,3 @@ For more information about me, click [here]().
   - [Text Mining](https://cheris8.github.io/categories/#text-mining)
   - [NLP](https://cheris8.github.io/categories/#natural-language-processing)
   - ...
-
-* * *
