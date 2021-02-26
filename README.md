@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📃 I’m currently learning Statistics, Data Analysis, Machine Learning, Deep Learning, ETC.
 - 📩 How to reach me: cheris8h@gmail.com
 
-For more information about me, click [here](https://github.com/cheris8/Resume/blob/master/README.md).
+For more information about me, click [here](https://github.com/cheris8/Resume/blob/master/Resume/README.md).
 
 ## Tools and Webpages
 
