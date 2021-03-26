@@ -26,7 +26,6 @@ For more information about me, click [here](https://github.com/cheris8/Resume/bl
 - Tools : `Python` `R` `SQL` `Tableau`
 - GitHub : <https://github.com/cheris8>
 - Blog : <https://cheris8.github.io>
+  - [NLP](https://cheris8.github.io/tags/#natural-language-processing)
   - [Data Analysis](https://cheris8.github.io/categories/#data-analysis)
-  - [Text Mining](https://cheris8.github.io/categories/#text-mining)
-  - [NLP](https://cheris8.github.io/categories/#natural-language-processing)
   - ...
