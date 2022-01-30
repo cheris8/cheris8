@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ## About ME 🤍
 
-- ☁️ I’m currently attending Yonsei University.
-- 📃 I’m currently learning Statistics, Data Analysis, Machine Learning, Deep Learning, ETC.
+- ☁️ I’m a MS student in Artificial Intelligence at Yonsei University.
+- 📃 I’m interested in Dialogue Agent, Machine Reasoning, Natural Language Processing.
 - 📩 How to reach me: cheris8h@gmail.com
 
 For more information about me, click [here](https://github.com/cheris8/Resume/blob/master/Resume/README.md).
@@ -26,6 +26,3 @@ For more information about me, click [here](https://github.com/cheris8/Resume/bl
 - Tools : `Python` `R` `SQL` `Tableau`
 - GitHub : <https://github.com/cheris8>
 - Blog : <https://cheris8.github.io>
-  - [NLP](https://cheris8.github.io/tags/#natural-language-processing)
-  - [Data Analysis](https://cheris8.github.io/categories/#data-analysis)
-  - ...
